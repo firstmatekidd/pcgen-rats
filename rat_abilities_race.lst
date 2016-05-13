@@ -1,0 +1,7 @@
+# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
+SOURCELONG:Ratfolk Campaign	SOURCESHORT:RATS	SOURCEWEB:http://www.stonecorridors.blogspot.com	SOURCEDATE:2016-05-08
+
+###Block: Ratfolk
+CATEGORY=Internal|Race Traits ~ Ratfolk.MOD						AUTO:WEAPONPROF|Tailblade (Ratfolk)
+
+Market Dweller			KEY:Ratfolk ~ Market Dweller		CATEGORY:Special Ability	TYPE:RacialTraits.SpecialQuality.Extraordinary.RatfolkRacialTrait.RatfolkTinker	PREMULT:1,[PREABILITY:1,CATEGORY=Special Ability,Ratfolk ~ Market Dweller],[!PREABILITY:1,CATEGORY=Special Ability,TYPE.RatfolkTinker]			DESC:Market Dweller: Some ratfolk are practiced at taking advantage of foes. They gain a +2 racial bonus on Bluff, Sense Motive, and Sleight of Hand checks. This racial trait replaces tinker.																																																										BONUS:SKILL|Bluff,Sleight of Hand,Sense Motive|2|TYPE=Racial	COST:0	SOURCEPAGE:p.xxx
