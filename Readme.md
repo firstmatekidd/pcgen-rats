@@ -1,7 +1,7 @@
 # pcgen-rats
 
 Installation
-____________
+------------
 Put the files in your <pcgen>/data/pathfinder/homebrew/rats folder
 
 In Progress:
@@ -12,4 +12,5 @@ Modifications:
 --------------
 * Market Dweller alternate racial feat for Ratfolk added.
 * Ratfolk Tailblades are Monk Weapons
+* Fixed unchained monk stunning fist uses per day
 
