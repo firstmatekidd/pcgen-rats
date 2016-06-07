@@ -36,7 +36,7 @@ EQUIPMENT:rat_equip_arms_armor.lst
 #LANGUAGE:my_languages.lst
 #RACE:rat_races.lst
 #SKILL:my_skills.lst
-#SPELL:my_spells.lst
+SPELL:rat_spells.lst
 TEMPLATE:rat_templates.lst
 
 #ARMORPROF:my_profs_armor.lst
