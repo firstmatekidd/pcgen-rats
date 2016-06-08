@@ -1,0 +1,5 @@
+# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
+SOURCELONG:Ratfolk Campaign	SOURCESHORT:RATS	SOURCEWEB:http://www.stonecorridors.blogspot.com	SOURCEDATE:2016-06
+
+###Block: Ratfolk
+Skellington Proficiences			KEY:Skellington ~ SkellyProfs			CATEGORY:Special Ability			TYPE:Trait.BasicTrait.CombatTrait 			DESC:Skellingtons should have proficiencies			AUTO:ARMORPROF|ARMORTYPE=ArmorProfHeavy|ARMORTYPE=ArmorProfMedium|ARMORTYPE=ArmorProfLight			AUTO:SHIELDPROF|SHIELDTYPE=Buckler|SHIELDTYPE=Heavy|SHIELDTYPE=Light			AUTO:WEAPONPROF|TYPE=Simple|TYPE=Martial
